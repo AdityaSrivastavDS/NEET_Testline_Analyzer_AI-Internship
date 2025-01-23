@@ -15,7 +15,16 @@ A Python-based solution to analyze quiz performance and provide personalized rec
 ## **Project Structure**
 
 ```plaintext
-NEET_Testline_Analyzer/ │ ├── main.py # Main script to execute the project ├── config.py # Configuration file with constants ├── data_fetcher.py # Script to fetch and process data ├── analyzer.py # Script to analyze quiz performance ├── recommender.py # Script to generate recommendations ├── requirements.txt # Required Python libraries └── README.md # Project documentation
+NEET_Testline_Analyzer/
+│
+├── main.py                        # Main script to execute the project
+├── config.py                      # Configuration file with constants
+├── data_fetcher.py                # Script to fetch and process data
+├── analyzer.py                    # Script to analyze quiz performance
+├── recommender.py                 # Script to generate recommendations
+├── requirements.txt               # Required Python libraries
+└── README.md                      # Project documentation
+
 ```
 
 
@@ -25,8 +34,8 @@ Follow these steps to set up and run the project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/NEET_Testline_Analyzer.git
-   cd NEET_Testline_Analyzer
+   git clone https://github.com/AdityaSrivastavDS/NEET_Testline_Analyzer_AI-Internship
+   cd NEET_Testline_Analyzer_AI-Internship
    ```
 
 2. Install Dependencies: Use the following command to install required Python libraries:
@@ -68,6 +77,6 @@ The following Python libraries are required:
 
 
 ## License
-This project is licensed under the [MIT License](https://www.example.com)
+This project is licensed under the [MIT License](LICENSE).
 
 
